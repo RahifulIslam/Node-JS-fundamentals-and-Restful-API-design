@@ -1,0 +1,5 @@
+{
+    "MONGODB_SERVER": "mongodb://0.0.0.0:27017/student",
+    "urls": "http://localhost:",
+    "port": "5001"
+}

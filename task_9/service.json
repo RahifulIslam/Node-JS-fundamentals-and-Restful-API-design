@@ -1,0 +1,6 @@
+{
+    "MONGODB_SERVER": "mongodb://0.0.0.0:27017/registration",
+    "urls": "http://localhost:",
+    "port": "5001",
+    "jwt_secret": "sdggffjjg"
+}
